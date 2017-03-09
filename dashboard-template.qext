@@ -1,0 +1,12 @@
+{
+	"type": "mashup-template",
+	"name": "blk-dashboard1-template",
+	"description": "Buildinglink template for mashups",
+	"homepage" : "",
+    "version" : "1.0.0",
+    "preview" : "preview.png",
+    "keywords" : "qlik-sense, mashup, dashboard",
+	"license" : "",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=1.0.x" }
+}
